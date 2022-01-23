@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Link to see the deployed application:
+## Link to see the deployed application via Heroku:
 
-[Text Editor]()
+[Text Editor](https://text-editor-progessive-web-app.herokuapp.com/)
 
 ## Description
 
